@@ -1,0 +1,8 @@
+name: HubCmd
+author: OmegaDevFlo
+main: OmegaDevFlo\OmegaHub\main
+version: 1.0.0
+api: 3.0.0
+commands:
+  hub:
+    description: §aBringt dich in die Hub.
